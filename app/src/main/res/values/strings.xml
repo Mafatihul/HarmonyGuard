@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">HateApp</string>
-    <string name="login">SIGNUP / SIGN IN</string>
+    <string name="login">Sign in</string>
+    <string name="register">Sign up</string>
     <string name="Etemail">Email </string>
     <string name="generate">Generate</string>
     <string name="username">Username</string>
     <string name="comment">Comment</string>
     <string name="tag">Tag</string>
+    <string name="don_t_have_account">Don\'t have an account?</string>
+    <string name="register_here">Sign up</string>
 </resources>

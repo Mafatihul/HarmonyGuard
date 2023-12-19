@@ -56,11 +56,12 @@
 
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:background="@color/white">
 
 
             <EditText
-                android:id="@+id/EtEmail"
+                android:id="@+id/EtEmail2"
                 android:layout_width="350dp"
                 android:layout_height="55dp"
                 android:layout_marginTop="144dp"
@@ -89,19 +90,20 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.491"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/EtEmail"
+                app:layout_constraintTop_toBottomOf="@+id/EtEmail2"
                 app:layout_constraintVertical_bias="0.176" />
 
             <ImageButton
                 android:id="@+id/imageButton5"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="512dp"
+                android:layout_width="63dp"
+                android:layout_height="55dp"
                 android:backgroundTint="@color/white"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.91"
+                app:layout_constraintHorizontal_bias="0.045"
                 app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.029"
                 app:srcCompat="@drawable/baseline_bookmark_24" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
