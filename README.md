@@ -1,15 +1,15 @@
 # Hate Speech Detection App
 > A brief description of what this project does and who it's for
 
-### C23-PS460 TEAM
+### CH2-PS443 TEAM
 | Name | Role     | Email                |
 | :-------- | :------- | :------------------------- |
 | Mafatihul Hidayah | Machine Learning | m179bsx0760@bangkit.academy |
-| Muhammad Habibullah | Machine Learning | m151dsy3296@bangkit.academy |
-| Muhammad Ravi Himawan | Machine Learning | c172dsx4937@bangkit.academy |
-| Rizki Fadillah | Cloud Computing | c172dsy3676@bangkit.academy |
-| Ilham Aziz Riyadi | Cloud Computin | a147dsx1405@bangkit.academy |
-| Hary Ramadhan Hedyanta | Mobile Development | a147dsx3311@bangkit.academy |
+| Muhammad Habibullah | Machine Learning | m254bsy0782@bangkit.academy |
+| Muhammad Ravi Himawan | Machine Learning | m247bsy1429@bangkit.academy |
+| Rizki Fadillah | Cloud Computing | c190bsy3512@bangkit.academy |
+| Ilham Aziz Riyadi | Cloud Computin | c009bsy3492@bangkit.academy |
+| Hary Ramadhan Hedyanta | Mobile Development | a190bsy2977@bangkit.academy |
 
 ## Machine Learning
 
