@@ -64,10 +64,10 @@ And this is the libraries we used to build the android application:
 ### Result
 Here is our application's Screenshot
 <p float="left">
-  <img src="https://github.com/bloodyscar/Fashion-Day/blob/main/Media/Login%20Page.png" width="24%" />
-  <img src="https://github.com/bloodyscar/Fashion-Day/blob/main/Media/Register%20Pages.png" width="24%" /> 
-  <img src="https://github.com/bloodyscar/Fashion-Day/blob/main/Media/Home%20Page.png" width="24%" /> 
-  <img src="https://github.com/bloodyscar/Fashion-Day/blob/main/Media/Search%20Page.png" width="24%" /> 
+  <img src="" width="24%" />
+  <img src="" width="24%" /> 
+  <img src="" width="24%" /> 
+  <img src="" width="24%" /> 
 </p>
 
 ### Future work
@@ -88,10 +88,10 @@ git clone https://github.com/melaatiptr/Capstone-Project
 ### Result
 Here is our application's Screenshot
 <p float="left">
-  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20cc/image.png" width="24%" />
-  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20cc/image2.png" width="24%" /> 
-  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20cc/image1.png" width="24%" /> 
-  <img src="https://github.com/bloodyscar/Team-C23-PS460-Project-Capstone-Bangkit/blob/main/media/foto%20cc/image4.jpg" width="24%" /> 
+  <img src="" width="24%" />
+  <img src="" width="24%" /> 
+  <img src="" width="24%" /> 
+  <img src="" width="24%" /> 
 </p>
 
 ### Future work
