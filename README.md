@@ -1,4 +1,4 @@
-# Hate Speech Detection App
+# Harmony Guard - Hate Speech Detection App
 > A brief description of what this project does and who it's for
 
 ### CH2-PS443 TEAM
