@@ -14,7 +14,7 @@
 ## Machine Learning
 
 ### Technologies
-We build a deep learning model with TensorFlow and Keras.
+We fine-tune the Transformer model to detect hate comment using TensorFlow and Keras.
 
 ### Setup
 To setup this project, firstly download dataset in kaggle
@@ -33,7 +33,7 @@ Here is our application's Screenshot
 </p>
 
 ### Future work
-contoh: This model need to improve an accuracy to detect more fashion
+This model need to improve an accuracy to detect more hate comments
 
 =================
 ## Mobile Development
@@ -51,11 +51,6 @@ git clone
 Exampel of this project can see with this link:
 link demo app
 
-### Flowchart
-<details>
-  <summary>Application Flowchart</summary>
-  <img src="https://github.com/bloodyscar/Fashion-Day/blob/main/Media/Flowchart.png"/>
-</details>
 
 And this is the libraries we used to build the android application:
 * [Retrofit](https://square.github.io/retrofit/)
@@ -78,12 +73,6 @@ This project need to explore again such as UI/UX Design, more feature.
 
 ### Techonologies
 We create an API with banyumili framework and database with mySQL
-
-### Setup
-To setup this project, just git clone this project. example:
-```javascript
-git clone https://github.com/melaatiptr/Capstone-Project
-```
 
 ### Result
 Here is our application's Screenshot
